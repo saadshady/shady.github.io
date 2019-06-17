@@ -1,0 +1,26 @@
+.new {
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+	background: red;
+	text-align: center;
+	transition: rotate 1s;
+	
+	
+}
+
+.new:hover{
+	transform: rotateX(30deg);
+}
+
+
+
+
+.new1 {
+	width: 200px;
+	height: 200px;
+	background: blue;
+	margin: 20px;
+	text-align: center;
+	color: white;
+}
